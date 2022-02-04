@@ -12,9 +12,3 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeORM-262627?style=flat&logo=TypeORM&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/S3-gray?style=flat-square&logo=Amazon AWS&logoColor=##232F3E"/></a> &nbsp;
-<img src="https://img.shields.io/badge/EC2-gray?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a> &nbsp;
-<img src="https://img.shields.io/badge/RDS-gray?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Route 53-gray?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a> &nbsp;
-<img src="https://img.shields.io/badge/CloudFront-gray?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Load Balancer-gray?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a> &nbsp;
