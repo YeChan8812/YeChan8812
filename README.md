@@ -1,4 +1,4 @@
-### 👋 Hi there! I`m BE developer
+### 👋 Hi there!
  
  
  
